@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pritam Bhkta</h1>
+<h1 align="center">Hi 👋, I'm Pritam Bhakta</h1>
 <h3 align="center">Aspiring Data Scientist with a background in Mathematics, seeking to leverage strong analytical skills and knowledge of Python, R and machine learning algorithms to drive data-driven insights and solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-777&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-777" /> </p>
